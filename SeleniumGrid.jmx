@@ -289,7 +289,7 @@
             <idleTime>true</idleTime>
           </value>
         </objProp>
-        <stringProp name="filename">results/20160304-141907-report.jtl</stringProp>
+        <stringProp name="filename">results/20160304-211249-report.jtl</stringProp>
       </cz.etnetera.jmeter.listener.ControllerResultCollector>
       <hashTree/>
       <BackendListener guiclass="BackendListenerGui" testclass="BackendListener" testname="Backend Listener" enabled="true">
@@ -312,7 +312,7 @@
             </elementProp>
             <elementProp name="dateTimeAppendFormat" elementType="Argument">
               <stringProp name="Argument.name">dateTimeAppendFormat</stringProp>
-              <stringProp name="Argument.value">-yyyy-MM-DD</stringProp>
+              <stringProp name="Argument.value">-yyyy.MM.dd</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="normalizedTime" elementType="Argument">
