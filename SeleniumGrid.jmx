@@ -289,7 +289,7 @@
             <idleTime>true</idleTime>
           </value>
         </objProp>
-        <stringProp name="filename">results/20160304-211249-report.jtl</stringProp>
+        <stringProp name="filename">results/20160424-102329-report.jtl</stringProp>
       </cz.etnetera.jmeter.listener.ControllerResultCollector>
       <hashTree/>
       <BackendListener guiclass="BackendListenerGui" testclass="BackendListener" testname="Backend Listener" enabled="true">
@@ -327,7 +327,7 @@
             </elementProp>
           </collectionProp>
         </elementProp>
-        <stringProp name="classname">org.md.jmeter.elasticsearch.ElasticSearchBackendListenerClient</stringProp>
+        <stringProp name="classname">cz.rdp.jmeter.elasticsearch.ElasticSearchBackendListenerClient</stringProp>
       </BackendListener>
       <hashTree/>
     </hashTree>
